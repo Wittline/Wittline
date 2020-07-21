@@ -1,4 +1,4 @@
-###  Hi there 👋, I am Ramses Alexander Coraspe Valdez (Wittline)
+###  Hi there 👋
 
 Take a look at my repository
 
