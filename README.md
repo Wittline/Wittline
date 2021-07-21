@@ -1,6 +1,6 @@
 ###  Hi there 👋
 
-![Wittline's github stats](https://github-readme-stats.vercel.app/api?username=wittline&count_private=true&theme=radical&show_icons=true)
+![Wittline's github stats](https://github-readme-stats.vercel.app/api?username=wittline&count_private=true&theme=default&show_icons=true)
 
 
 <!--
