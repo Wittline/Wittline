@@ -3,7 +3,7 @@
 ![Wittline's github stats](https://github-readme-stats.vercel.app/api?username=wittline&count_private=true&theme=default&show_icons=true&include_all_commits=true)
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coraspe-ramses/3">
  
- [![Wittline's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wittline&theme=xcode)](https://git.io/Wittline)
+ [![Wittline's github activity graph](https://activity-graph.herokuapp.com/graph?username=Wittline&theme=react-dark)](https://git.io/Wittline)
 
  
 ### Medium articles
