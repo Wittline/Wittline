@@ -8,7 +8,7 @@
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coraspe-ramses/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coraspe-ramses/3" style="width:10%;">  
 
-<a target="_blank" style="width:10%;" href="https://github-readme-medium-recent-article.vercel.app/medium/@coraspe-ramses/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coraspe-ramses/0" style="width:10%;">
+<a target="_blank"  href="https://github-readme-medium-recent-article.vercel.app/medium/@coraspe-ramses/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coraspe-ramses/0" style="width:10%;">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coraspe-ramses/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@coraspe-ramses/1" style="width:10%;"> 
 
