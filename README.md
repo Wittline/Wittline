@@ -13,7 +13,7 @@
  
 
  
-:email: Feel free to contact me on <a href="https://twitter.com/RamsesCoraspe" target="_blank">Twitter</a> (@RamsesCoraspe) | <a href="https://www.linkedin.com/in/ramsescoraspe/" target="_blank" >LinkedIn. | <a href="https://coraspe-ramses.medium.com/" target="_blank" >Medium | <a href="https://dev.to/ramsescoraspe" target="_blank" >dev.to | <a href="https://hashnode.com/@ramsescoraspe" target="_blank" >hashnode
+:email: Feel free to contact me on <a href="https://twitter.com/RamsesCoraspe" target="_blank">Twitter</a> | <a href="https://www.linkedin.com/in/ramsescoraspe/" target="_blank" >LinkedIn. | <a href="https://coraspe-ramses.medium.com/" target="_blank" >Medium | <a href="https://dev.to/ramsescoraspe" target="_blank" >dev.to | <a href="https://hashnode.com/@ramsescoraspe" target="_blank" >hashnode
  
 [![Repos Badge](https://badges.pufler.dev/repos/wittline)](https://github.com/wittline?tab=repositories)
 [![wittline](https://komarev.com/ghpvc/?username=wittline)](https://github.com/Wittline/)
