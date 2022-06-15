@@ -2,11 +2,6 @@
  
 [![Repos Badge](https://badges.pufler.dev/repos/wittline)](https://github.com/wittline?tab=repositories)
 [![wittline](https://komarev.com/ghpvc/?username=wittline)](https://github.com/Wittline/)
-
-### Wittline's github stats 👋
-
-![Wittline's github stats](https://github-readme-stats.vercel.app/api?username=wittline&count_private=true&theme=default&show_icons=true&include_all_commits=true)
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@coraspe-ramses/3">
  
  
 ### Medium articles
